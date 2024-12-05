@@ -23,7 +23,7 @@ I am currently applying for a Ph.D. for Fall 2025. My research interest includes
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LAND 2024</div><img src='images/LULC_2018.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LAND 2024</div><img src='images/MethodologicalFramework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Multi Source Data-Based Method for Assessing Carbon Sequestration of Urban Parks from a Spatial–Temporal Perspective: A Case Study of Shanghai Century Park](https://doi.org/10.3390/land13111914)
@@ -31,7 +31,9 @@ I am currently applying for a Ph.D. for Fall 2025. My research interest includes
 **Yiqi Wang**, Jiao Yu, Weixuan Wei, Nannan Dong
 - This paper
 
+</div>
 </div>  
+
 To cite: Wang, Y., Yu, J., Wei, W., & Dong, N. (2024). A Multi Source Data-Based Method for Assessing Carbon Sequestration of Urban Parks from a Spatial–Temporal Perspective: A Case Study of Shanghai Century Park. *Land, 13*(11), 1914. https://doi.org/10.3390/land13111914
 
 </div>
