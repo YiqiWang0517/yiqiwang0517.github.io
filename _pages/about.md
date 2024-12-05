@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 
-Hi 👋, my name is **Yiqi Wang (王怡琪)**. I am a final year MSc Landscape Architecture student at College of Architecture and Urban Planning, Tongji University, Shanghai. My advisor is Associate Prof. Dr. Nannan Dong.
+Hi 👋, my name is **Yiqi Wang (王怡琪)**. I am a final year M.Sc. Landscape Architecture student at College of Architecture and Urban Planning, Tongji University, Shanghai. My advisor is Associate Prof. Dr. Nannan Dong.
 
 I am currently applying for a Ph.D. for Fall 2025. My research interest includes ecosystem services, landscape ecology, landscape design and planning. You can find my **CV** here: [YiqiWang's Curriculum Vitae](assets/CV_YiqiWang_11.27.pdf)
 
 
 # 📖 Educations
 
-- *2021.09 - 2024.12 (now)*, Master's Degree (GPA:87.65/100), Landscape Architecture, Tongji University, Shanghai
+- *2021.09 - 2025.06 (expected)*, Master's Degree (GPA:87.65/100), Landscape Architecture, Tongji University, Shanghai
 - *2024.01-2024.05*, Visiting Study (funded by China Scholarship Council), Geography, Ruhr University Bochum, Germany 
 - *2017.09 - 2021.07*, Bachelor's Degree (GPA:90.20/100), Landscape Architecture, Tongji University, Shanghai
 
