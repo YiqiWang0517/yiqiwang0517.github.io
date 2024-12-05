@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3209618d-c0a5-4e41-a84d-0350a260af79)---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -8,16 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
-Hi 👋 my name is Yiqi Wang. I am a final year MEng Landscape Architecture student at College of Architecture and Urban Planning at Tongji University, Shanghai. My GPA is 87.65/100 (graduate) and 90.20/100 (undergraduate). My supervisor is Prof. Dr. Nannan Dong.
+Hi 👋 my name is Yiqi Wang. I am a final year MEng Landscape Architecture student at College of Architecture and Urban Planning at Tongji University, Shanghai. My GPA is 87.65/100 (graduate) and 90.20/100 (undergraduate). My supervisor is Associate Prof. Dr. Nannan Dong.
 
 I am currently applying for a Ph.D. for Fall 2025. My research interest includes ecosystem services, landscape ecology, landscape design and planning. You can find my CV here:
 
