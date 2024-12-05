@@ -28,13 +28,13 @@ I am currently applying for a Ph.D. for Fall 2025. My research interest includes
 
 [A Multi Source Data-Based Method for Assessing Carbon Sequestration of Urban Parks from a Spatial–Temporal Perspective: A Case Study of Shanghai Century Park](https://doi.org/10.3390/land13111914)
 
-Peer-reviewed Journal &#124; Land
+Peer-reviewed Journal &#124; ***Land*** (IF=3.2)
 
 **Yiqi Wang**, Jiao Yu, Weixuan Wei, Nannan Dong
 
-- 1️⃣ In this paper, I established a spatial-temporal framework to assess the **carbon sequestration** capacity of large urban parks.
+- 1️⃣ In this paper, I established a spatial-temporal framework to assess the carbon sequestration capacity of large urban parks.
 - 2️⃣ Using remote sensing imagery and the random forest algorithm on the Google Earth Engine platform (https://earthengine.google.com/), I performed biotope classifications and analyzed their temporal and spatial transitions.
-- 3️⃣ Focusing on **Shanghai Century Park**, I estimated its carbon sequestration capacity from 2018 to 2023, exploring variation characteristics and driving factors, and proposing low-carbon design strategies for urban park management.
+- 3️⃣ Focusing on Shanghai Century Park, I estimated its carbon sequestration capacity from 2018 to 2023, exploring variation characteristics and driving factors, and proposing low-carbon design strategies for urban park management.
 
 </div>
 </div>  
@@ -44,7 +44,7 @@ Peer-reviewed Journal &#124; Land
 
 [Assessing Buffer Gradient Synergies: Comparing Objective and Subjective Evaluations of Urban Park Ecosystem Services in Century Park, Shanghai](https://doi.org/10.3390/land13111848)
 
-Peer-reviewed Journal &#124; Land
+Peer-reviewed Journal &#124; ***Land*** (IF=3.2)
 
 Weixuan Wei, **Yiqi Wang**, Qi Yan, Guanpeng Liu, Nannan Dong
 
@@ -58,7 +58,7 @@ Weixuan Wei, **Yiqi Wang**, Qi Yan, Guanpeng Liu, Nannan Dong
 
 [Xuhui Runway Park Landscape Performance Evaluation](https://doi.org/10.31353/cs1821)
 
-Peer-reviewed Report &#124; Landscape Performance Series, Landscape Architecture Foundation
+Peer-reviewed Report &#124; ***Landscape Performance Series, Landscape Architecture Foundation***
 
 Nannan Dong, **Yiqi Wang**
 
