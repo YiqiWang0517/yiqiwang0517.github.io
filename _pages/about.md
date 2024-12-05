@@ -53,12 +53,12 @@ Weixuan Wei, **Yiqi Wang**, Qi Yan, Guanpeng Liu, Nannan Dong
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LAF 2022</div><img src='images/land-13-01848-g003.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LAF 2022</div><img src='images/LAF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Xuhui Runway Park Landscape Performance Evaluation](https://doi.org/10.31353/cs1821)
 
-Peer-reviewed Report | Landscape Performance Series, Landscape Architecture Foundation
+Peer-reviewed Report "&#124;" Landscape Performance Series, Landscape Architecture Foundation
 
 Nannan Dong, **Yiqi Wang**
 
