@@ -14,12 +14,15 @@ Hi 👋, my name is **Yiqi Wang (王怡琪)**. I am a final year M.Sc. Landscape
 I am currently applying for a Ph.D. for Fall 2025. My research interest includes **ecosystem services**, **landscape ecology**, and **spatial design and planning**. You can find my **CV** here: [YiqiWang's Curriculum Vitae](assets/CV_YiqiWang_11.27.pdf)
 
 
-# 📖 Educations
+# 🎓 Educations
 
 - *2021.09 - 2025.06 (expected)*, Master's Degree (GPA:87.65/100), Landscape Architecture, Tongji University, Shanghai
-- *2024.01-2024.05*, Visiting Study (funded by China Scholarship Council), Geography, Ruhr University Bochum, Germany 
+- *2024.01-2024.05*, Visiting Study, Geography, Ruhr University Bochum, Germany 
 - *2017.09 - 2021.07*, Bachelor's Degree (GPA:90.20/100), Landscape Architecture, Tongji University, Shanghai
 
+# 🏆 Honors and Awards
+- *2024.01-2024.05* Visiting Student Scholarship funded by China Scholarship Council
+- *2017-2020* The Third Prize of Tongji Scholarship of Excellent **(Awarded three times)** 
 
 # 📝 Publications 
 
@@ -28,13 +31,13 @@ I am currently applying for a Ph.D. for Fall 2025. My research interest includes
 
 [A Multi Source Data-Based Method for Assessing Carbon Sequestration of Urban Parks from a Spatial–Temporal Perspective: A Case Study of Shanghai Century Park](https://doi.org/10.3390/land13111914)
 
-Peer-reviewed Journal &#124; ***Land*** (IF=3.2)
+2024 &#124; Peer-reviewed Journal &#124; ***Land*** (IF=3.2)
 
 **Yiqi Wang**, Jiao Yu, Weixuan Wei, Nannan Dong
 
-- 1️⃣ In this paper, I established a spatial-temporal framework to assess the carbon sequestration capacity of large urban parks.
-- 2️⃣ Using remote sensing imagery and the random forest algorithm on the Google Earth Engine platform (https://earthengine.google.com/), I performed biotope classifications and analyzed their temporal and spatial transitions.
-- 3️⃣ Focusing on Shanghai Century Park, I estimated its carbon sequestration capacity from 2018 to 2023, exploring variation characteristics and driving factors, and proposing low-carbon design strategies for urban park management.
+- In this paper, I established a spatial-temporal framework to assess the carbon sequestration capacity of large urban parks.
+- Using remote sensing imagery and the random forest algorithm on the Google Earth Engine platform (https://earthengine.google.com/), I performed biotope classifications and analyzed their temporal and spatial transitions.
+- Focusing on Shanghai Century Park, I estimated its carbon sequestration capacity from 2018 to 2023, exploring variation characteristics and driving factors, and proposing low-carbon design strategies for urban park management.
 
 </div>
 </div>  
@@ -44,7 +47,7 @@ Peer-reviewed Journal &#124; ***Land*** (IF=3.2)
 
 [Assessing Buffer Gradient Synergies: Comparing Objective and Subjective Evaluations of Urban Park Ecosystem Services in Century Park, Shanghai](https://doi.org/10.3390/land13111848)
 
-Peer-reviewed Journal &#124; ***Land*** (IF=3.2)
+2024 &#124; Peer-reviewed Journal &#124; ***Land*** (IF=3.2)
 
 Weixuan Wei, **Yiqi Wang**, Qi Yan, Guanpeng Liu, Nannan Dong
 
@@ -58,7 +61,7 @@ Weixuan Wei, **Yiqi Wang**, Qi Yan, Guanpeng Liu, Nannan Dong
 
 [Xuhui Runway Park Landscape Performance Evaluation](https://doi.org/10.31353/cs1821)
 
-Peer-reviewed Report &#124; ***Landscape Performance Series, Landscape Architecture Foundation***
+2022 &#124; Peer-reviewed Report &#124; ***Landscape Performance Series, Landscape Architecture Foundation***
 
 Nannan Dong, **Yiqi Wang**
 
@@ -69,7 +72,5 @@ Nannan Dong, **Yiqi Wang**
 </div>
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
