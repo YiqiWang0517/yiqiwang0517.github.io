@@ -11,7 +11,7 @@ redirect_from:
 
 Hi 👋, my name is **Yiqi Wang (王怡琪)**. I am a final year M.Sc. Landscape Architecture student at College of Architecture and Urban Planning, Tongji University, Shanghai. My advisor is Associate Prof. Dr. Nannan Dong.
 
-I am currently applying for a Ph.D. for Fall 2025. My research interest includes ecosystem services, landscape ecology, landscape design and planning. You can find my **CV** here: [YiqiWang's Curriculum Vitae](assets/CV_YiqiWang_11.27.pdf)
+I am currently applying for a Ph.D. for Fall 2025. My research interest includes **ecosystem services**, **landscape ecology**, and **spatial design and planning**. You can find my **CV** here: [YiqiWang's Curriculum Vitae](assets/CV_YiqiWang_11.27.pdf)
 
 
 # 📖 Educations
@@ -48,6 +48,19 @@ Weixuan Wei, **Yiqi Wang**, Qi Yan, Guanpeng Liu, Nannan Dong
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LAND 2024</div><img src='images/land-13-01848-g003.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Assessing Buffer Gradient Synergies: Comparing Objective and Subjective Evaluations of Urban Park Ecosystem Services in Century Park, Shanghai](https://doi.org/10.3390/land13111848)
+
+Weixuan Wei, **Yiqi Wang**, Qi Yan, Guanpeng Liu, Nannan Dong
+
+- In this study, we integrated objective data and subjective perceptions of ecosystem services (ESs) in urban park planning, revealing that a 35 m buffer radius optimally aligns assessments for most ESs while emphasizing stakeholder-specific synergies to guide sustainable and wellbeing-centered urban green space design.
+
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
