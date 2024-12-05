@@ -28,7 +28,7 @@ I am currently applying for a Ph.D. for Fall 2025. My research interest includes
 
 [A Multi Source Data-Based Method for Assessing Carbon Sequestration of Urban Parks from a Spatial–Temporal Perspective: A Case Study of Shanghai Century Park](https://doi.org/10.3390/land13111914)
 
-Peer-reviewed Journal | Land
+Peer-reviewed Journal &#124; Land
 
 **Yiqi Wang**, Jiao Yu, Weixuan Wei, Nannan Dong
 
@@ -44,7 +44,7 @@ Peer-reviewed Journal | Land
 
 [Assessing Buffer Gradient Synergies: Comparing Objective and Subjective Evaluations of Urban Park Ecosystem Services in Century Park, Shanghai](https://doi.org/10.3390/land13111848)
 
-Peer-reviewed Journal | Land
+Peer-reviewed Journal &#124; Land
 
 Weixuan Wei, **Yiqi Wang**, Qi Yan, Guanpeng Liu, Nannan Dong
 
@@ -58,7 +58,7 @@ Weixuan Wei, **Yiqi Wang**, Qi Yan, Guanpeng Liu, Nannan Dong
 
 [Xuhui Runway Park Landscape Performance Evaluation](https://doi.org/10.31353/cs1821)
 
-Peer-reviewed Report "&#124;" Landscape Performance Series, Landscape Architecture Foundation
+Peer-reviewed Report &#124; Landscape Performance Series, Landscape Architecture Foundation
 
 Nannan Dong, **Yiqi Wang**
 
