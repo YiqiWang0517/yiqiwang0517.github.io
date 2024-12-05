@@ -9,24 +9,24 @@ redirect_from:
 ---
 
 
-Hi 👋 my name is Yiqi Wang. I am a final year MEng Landscape Architecture student at College of Architecture and Urban Planning at Tongji University, Shanghai. My GPA is 87.65/100 (graduate) and 90.20/100 (undergraduate). My supervisor is Associate Prof. Dr. Nannan Dong.
+Hi 👋 my name is **Yiqi Wang (王怡琪)**. I am a final year MEng Landscape Architecture student at College of Architecture and Urban Planning at Tongji University, Shanghai. My advisor is Associate Prof. Dr. Nannan Dong.
 
-I am currently applying for a Ph.D. for Fall 2025. My research interest includes ecosystem services, landscape ecology, landscape design and planning. You can find my CV here: [YiqiWang's Curriculum Vitae] 
+I am currently applying for a Ph.D. for Fall 2025. My research interest includes ecosystem services, landscape ecology, landscape design and planning. You can find my CV here: [YiqiWang's Curriculum Vitae](assets/CV_YiqiWang_11.27.pdf)
 
+# 📖 Educations
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2024.12 (now)*, Master's Degree (GPA:87.65/100), Landscape Architecture, Tongji University, Shanghai
+- *2024.01-2024.05*, Visiting Study (funded by China Scholarship Council), Geography, Ruhr University Bochum, Germany 
+- *2017.09 - 2021.07*, Bachelor's Degree (GPA:90.20/100), Landscape Architecture, Tongji University, Shanghai
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[A Multi Source Data-Based Method for Assessing Carbon Sequestration of Urban Parks from a Spatial–Temporal Perspective: A Case Study of Shanghai Century Park](https://doi.org/10.3390/land13111914)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yiqi Wang**, Jiao Yu, Weixuan Wei, Nannan Dong
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -39,13 +39,3 @@ I am currently applying for a Ph.D. for Fall 2025. My research interest includes
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
