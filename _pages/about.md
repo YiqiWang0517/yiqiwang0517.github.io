@@ -30,8 +30,7 @@ I am currently applying for a Ph.D. for Fall 2025. My research interest includes
 
 **Yiqi Wang**, Jiao Yu, Weixuan Wei, Nannan Dong
 
-
-- In this paper, I established a spatial-temporal framework to assess the carbon sequestration capacity of large urban parks. Using remote sensing imagery and the random forest algorithm on the Google Earth Engine platform, I performed biotope classifications and analyzed their temporal and spatial transitions. Focusing on Century Park, I estimated its carbon sequestration capacity from 2018 to 2023, exploring variation characteristics and driving factors, and proposing low-carbon design strategies for urban park management.
+- 1️⃣ In this paper, I established a spatial-temporal framework to assess the **carbon sequestration** capacity of large urban parks. 2️⃣ Using remote sensing imagery and the random forest algorithm on the Google Earth Engine platform (https://earthengine.google.com/), I performed biotope classifications and analyzed their temporal and spatial transitions. 3️⃣ Focusing on **Shanghai Century Park**, I estimated its carbon sequestration capacity from 2018 to 2023, exploring variation characteristics and driving factors, and proposing low-carbon design strategies for urban park management.
 
 </div>
 </div>  
@@ -39,12 +38,11 @@ I am currently applying for a Ph.D. for Fall 2025. My research interest includes
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LAND 2024</div><img src='images/MethodologicalFramework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Multi Source Data-Based Method for Assessing Carbon Sequestration of Urban Parks from a Spatial–Temporal Perspective: A Case Study of Shanghai Century Park](https://doi.org/10.3390/land13111914)
+[Assessing Buffer Gradient Synergies: Comparing Objective and Subjective Evaluations of Urban Park Ecosystem Services in Century Park, Shanghai](https://doi.org/10.3390/land13111848)
 
-**Yiqi Wang**, Jiao Yu, Weixuan Wei, Nannan Dong
+Weixuan Wei, **Yiqi Wang**, Qi Yan, Guanpeng Liu, Nannan Dong
 
-
-- In this paper, I established a spatial-temporal framework to assess the carbon sequestration capacity of large urban parks. Using remote sensing imagery and the random forest algorithm on the Google Earth Engine platform, I performed biotope classifications and analyzed their temporal and spatial transitions. Focusing on Century Park, I estimated its carbon sequestration capacity from 2018 to 2023, exploring variation characteristics and driving factors, and proposing low-carbon design strategies for urban park management.
+- In this study, we integrated objective data and subjective perceptions of ecosystem services (ESs) in urban park planning, revealing that a 35 m buffer radius optimally aligns assessments for most ESs while emphasizing stakeholder-specific synergies to guide sustainable and wellbeing-centered urban green space design.
 
 </div>
 </div>
