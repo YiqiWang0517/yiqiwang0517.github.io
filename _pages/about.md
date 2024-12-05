@@ -31,7 +31,9 @@ I am currently applying for a Ph.D. for Fall 2025. My research interest includes
 **Yiqi Wang**, Jiao Yu, Weixuan Wei, Nannan Dong
 - This paper
 
-  
+</div>  
+To cite: Wang, Y., Yu, J., Wei, W., & Dong, N. (2024). A Multi Source Data-Based Method for Assessing Carbon Sequestration of Urban Parks from a Spatial–Temporal Perspective: A Case Study of Shanghai Century Park. *Land, 13*(11), 1914. https://doi.org/10.3390/land13111914
+
 </div>
 </div>
 
