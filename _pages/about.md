@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/3209618d-c0a5-4e41-a84d-0350a260af79)---
 permalink: /
 title: ""
 excerpt: ""
@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi my name is Yiqi Wang. I am currently applying for a Ph.D. for Fall 2025. 
+Hi 👋 my name is Yiqi Wang. I am a final year MEng Landscape Architecture student at College of Architecture and Urban Planning at Tongji University, Shanghai. My GPA is 87.65/100 (graduate) and 90.20/100 (undergraduate). My supervisor is Prof. Dr. Nannan Dong.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently applying for a Ph.D. for Fall 2025. My research interest includes ecosystem services, landscape ecology, landscape design and planning. You can find my CV here:
+
+I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
