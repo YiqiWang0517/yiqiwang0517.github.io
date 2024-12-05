@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+
 Hi 👋 my name is Yiqi Wang. I am a final year MEng Landscape Architecture student at College of Architecture and Urban Planning at Tongji University, Shanghai. My GPA is 87.65/100 (graduate) and 90.20/100 (undergraduate). My supervisor is Associate Prof. Dr. Nannan Dong.
 
-I am currently applying for a Ph.D. for Fall 2025. My research interest includes ecosystem services, landscape ecology, landscape design and planning. You can find my CV here:
+I am currently applying for a Ph.D. for Fall 2025. My research interest includes ecosystem services, landscape ecology, landscape design and planning. You can find my CV here: [YiqiWang's Curriculum Vitae] 
 
-I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
