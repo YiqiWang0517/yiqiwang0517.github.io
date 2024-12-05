@@ -81,7 +81,7 @@ Nannan Dong, **Yiqi Wang**
     - Tested, modified, and optimized its application in the context of Shanghai.
     - Assisted in organizing hands-on IMECOGIP toolbox workshops in Shanghai, Bochum and Qingdao.
    
-</div>
+
 
 - *2023.02 - Present* |  Research Assistant
   - **Project Name**: Comprehensive Study on the Summer Temperature Regulation Performance and Influencing Factors of Rooftop Greening in the Photovoltaic and Greening Combination Mode (National Natural Science Foundation Project)
@@ -89,7 +89,7 @@ Nannan Dong, **Yiqi Wang**
     - Assisted in reviewing literature on rooftop photovoltaic systems and designing the experimental procedures.
     - Conducted on-site experiments in Shanghai; produced schematic diagrams of the experimental test unit.
    
-</div>
+
    
 - *2019.04 - 2021.04* |  Program Leader
   - **Project Name**: Study on Mood-Modulating Effects of Aromatic Plants and Exploration of the Design of the Aromatic Botanical Garden on University Campus (National Undergraduate Innovation Training Program)
