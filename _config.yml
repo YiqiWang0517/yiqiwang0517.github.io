@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yiqi Wang（王怡琪）"
+  name             : "Yiqi Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Looking for a PhD in Landscape Architecture/ Geography/ Urban Planning"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
