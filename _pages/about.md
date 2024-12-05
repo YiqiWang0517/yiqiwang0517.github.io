@@ -73,7 +73,7 @@ Nannan Dong, **Yiqi Wang**
 
 # 🌏 Research Experiences
 
-- *2022.03 - 2024.10* | Research Assistant
+- *2022.03 - 2024.10* &#124; | &#124; Research Assistant 
   - **Project Name**: Implementation of the Ecosystem Services Concept in Green Infrastructure Planning to Strengthen the Resilience of the Metropole Ruhr and Chinese Megacities ([IMECOGIP](https://sustainable-urban-regions.org/de/project/imecogip/), the German BMBF funded)
   - **My Work**:
     - Collected land use/ land cover data from urban and rural areas in Shanghai through on-site investigations and remote sensing imagery;
