@@ -73,7 +73,7 @@ Nannan Dong, **Yiqi Wang**
 
 # 🌏 Research Experiences
 
-- *2022.03 - 2024.10* | &#124; | ---: Research Assistant 
+- *2022.03 - 2024.10* | &#124; | Research Assistant 
   - **Project Name**: Implementation of the Ecosystem Services Concept in Green Infrastructure Planning to Strengthen the Resilience of the Metropole Ruhr and Chinese Megacities ([IMECOGIP](https://sustainable-urban-regions.org/de/project/imecogip/), the German BMBF funded)
   - **My Work**:
     - Collected land use/ land cover data from urban and rural areas in Shanghai through on-site investigations and remote sensing imagery;
@@ -83,7 +83,7 @@ Nannan Dong, **Yiqi Wang**
    
 
 
-- *2023.02 - Present* | &#124; | ---: Research Assistant
+- *2023.02 - Present* | &#124; | Research Assistant
   - **Project Name**: Comprehensive Study on the Summer Temperature Regulation Performance and Influencing Factors of Rooftop Greening in the Photovoltaic and Greening Combination Mode (National Natural Science Foundation Project)
   - **My Work**:
     - Assisted in reviewing literature on rooftop photovoltaic systems and designing the experimental procedures.
@@ -91,7 +91,7 @@ Nannan Dong, **Yiqi Wang**
    
 
    
-- *2019.04 - 2021.04* | &#124; | ---: Program Leader
+- *2019.04 - 2021.04* | &#124; | Program Leader
   - **Project Name**: Study on Mood-Modulating Effects of Aromatic Plants and Exploration of the Design of the Aromatic Botanical Garden on University Campus (National Undergraduate Innovation Training Program)
   - **My Work**:
     - Designed the experimental protocol; conducted experiments among 30 volunteers on the beneficial impacts of different aromatic plants on mood, depression and anxiety; and analyzed the experimental results.
