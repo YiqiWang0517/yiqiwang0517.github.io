@@ -29,8 +29,11 @@ I am currently applying for a Ph.D. for Fall 2025. My research interest includes
 [A Multi Source Data-Based Method for Assessing Carbon Sequestration of Urban Parks from a Spatial–Temporal Perspective: A Case Study of Shanghai Century Park](https://doi.org/10.3390/land13111914)
 
 **Yiqi Wang**, Jiao Yu, Weixuan Wei, Nannan Dong
-- This paper 
+- This paper
 
+  
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
