@@ -13,6 +13,7 @@ Hi 👋, my name is **Yiqi Wang (王怡琪)**. I am a final year M.Sc. Landscape
 
 I am currently applying for a Ph.D. for Fall 2025. My research interest includes **ecosystem services**, **landscape ecology**, and **spatial design and planning**. You can find my **CV** here: [YiqiWang's Curriculum Vitae](assets/CV_YiqiWang_11.27.pdf)
 
+<br>
 
 # 🎓 Educations
 
@@ -20,9 +21,13 @@ I am currently applying for a Ph.D. for Fall 2025. My research interest includes
 - *2024.01 - 2024.05*, Visiting Study, Geography, Ruhr University Bochum, Germany 
 - *2017.09 - 2021.07*, Bachelor's Degree (GPA:90.20/100), Landscape Architecture, Tongji University, Shanghai
 
+<br>
+
 # 🏆 Honors and Awards
 - *2024.01-2024.05* Visiting Student Scholarship funded by China Scholarship Council
-- *2017-2020* The Third Prize of Tongji Scholarship of Excellent **(Awarded three times)** 
+- *2017-2020* The Third Prize of Tongji Scholarship of Excellent **(Awarded three times)**
+
+<br>
 
 # 📝 Publications 
 
@@ -101,6 +106,8 @@ Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
 </div>
 </div>
 
+<br>
+
 # 🌏 Research Experiences
 
 - *2022.03 - 2024.10* | &#124; | Research Assistant 
@@ -127,9 +134,7 @@ Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
     - Designed the experimental protocol; conducted experiments among 30 volunteers on the beneficial impacts of different aromatic plants on mood, depression and anxiety; and analyzed the experimental results.
     - Explored principles and methods of designing an aromatic botanical garden on Tongji University campus.
 
-</div>
-</div>
-
+<br>
 # 👩🏻‍💻 Expertise
 
 <table>
