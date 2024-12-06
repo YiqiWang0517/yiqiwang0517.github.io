@@ -131,7 +131,7 @@ Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
 
 # 👩🏻‍💻 Expertise
 
-<table>
+<table style="width: 100%; text-align: center;">
   <tr>
     <th>Softwares</th>
     <th>Proficiency</th>
@@ -139,8 +139,8 @@ Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
   <tr>
     <td>ArcGIS / QGIS</td>
     <td>
-      <div style="background-color: #5e85c2; border-radius: 10px; width: 100%; height: 20px;">
-        <div style="width: 85%; background-color: #0f274e; height: 100%; border-radius: 10px;"></div>
+      <div style="background-color: #E0FFFF; border-radius: 10px; width: 100%; height: 20px;">
+        <div style="width: 85%; background-color: #40E0D0; height: 100%; border-radius: 10px;"></div>
       </div>
       85%
     </td>
@@ -148,8 +148,8 @@ Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
   <tr>
     <td>Google Earth Engine</td>
     <td>
-      <div style="background-color: #5e85c2; border-radius: 10px; width: 100%; height: 20px;">
-        <div style="width: 78%; background-color: #0f274e; height: 100%; border-radius: 10px;"></div>
+      <div style="background-color: #E0FFFF; border-radius: 10px; width: 100%; height: 20px;">
+        <div style="width: 78%; background-color: #40E0D0; height: 100%; border-radius: 10px;"></div>
       </div>
       78%
     </td>
@@ -157,22 +157,23 @@ Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
   <tr>
     <td>ENVI</td>
     <td>
-      <div style="background-color: #5e85c2; border-radius: 10px; width: 100%; height: 20px;">
-        <div style="width: 75%; background-color: #0f274e; height: 100%; border-radius: 10px;"></div>
+      <div style="background-color: #E0FFFF; border-radius: 10px; width: 100%; height: 20px;">
+        <div style="width: 75%; background-color: #40E0D0; height: 100%; border-radius: 10px;"></div>
       </div>
       75%
     </td>
   </tr>
   <tr>
-    <td>Adobe PS / AI / ID</td>
+    <td>Adobe PhotoShop / Illustrator / InDesign</td>
     <td>
-      <div style="background-color: #5e85c2; border-radius: 10px; width: 100%; height: 20px;">
-        <div style="width: 90%; background-color: #0f274e; height: 100%; border-radius: 10px;"></div>
+      <div style="background-color: #E0FFFF; border-radius: 10px; width: 100%; height: 20px;">
+        <div style="width: 90%; background-color: #40E0D0; height: 100%; border-radius: 10px;"></div>
       </div>
       90%
     </td>
   </tr>
 </table>
+
 
 
 
