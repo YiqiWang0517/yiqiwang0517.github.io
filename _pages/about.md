@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<br>
 
 Hi 👋, my name is **Yiqi Wang (王怡琪)**. I am a final year M.Sc. Landscape Architecture student at College of Architecture and Urban Planning, Tongji University, Shanghai. My advisor is Associate Prof. Dr. Nannan Dong.
 
@@ -24,8 +25,8 @@ I am currently applying for a Ph.D. for Fall 2025. My research interest includes
 <br>
 
 # 🏆 Honors and Awards
-- *2024.01-2024.05* Visiting Student Scholarship funded by China Scholarship Council
-- *2017-2020* The Third Prize of Tongji Scholarship of Excellent **(Awarded three times)**
+- *2024.01-2024.05*,  Visiting Student Scholarship funded by China Scholarship Council
+- *2017-2020*,  The Third Prize of Tongji Scholarship of Excellent **(Awarded three times)**
 
 <br>
 
@@ -135,7 +136,7 @@ Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
     - Explored principles and methods of designing an aromatic botanical garden on Tongji University campus.
 
 <br>
-# 👩🏻‍💻 Expertise
+# 👩🏻‍💻 Expertise and Techniques
 
 <table>
   <tr>
