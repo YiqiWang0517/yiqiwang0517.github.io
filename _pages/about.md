@@ -131,12 +131,48 @@ Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
 
 # 👩🏻‍💻 Expertise
 
-| ***Softwares***        | ***Proficiency***                                                                             |
-|:---:|:---:|
-| *ArcGIS / QGIS*         | <div style="background-color: #ddd; border-radius: 10px; width: 100%; height: 20px; display: inline-block;"> <div style="width: 85%; background-color: #40E0D0; height: 100%; border-radius: 10px;"></div> </div> 85% |
-| *Google Earth Engine*   | <div style="background-color: #ddd; border-radius: 10px; width: 100%; height: 20px; display: inline-block;"> <div style="width: 78%; background-color: #40E0D0; height: 100%; border-radius: 10px;"></div> </div> 78% |
-| *ENVI*                  | <div style="background-color: #ddd; border-radius: 10px; width: 100%; height: 20px; display: inline-block;"> <div style="width: 75%; background-color: #40E0D0; height: 100%; border-radius: 10px;"></div> </div> 75% |
-| *Adobe PS / AI / ID*    | <div style="background-color: #ddd; border-radius: 10px; width: 100%; height: 20px; display: inline-block;"> <div style="width: 90%; background-color: #40E0D0; height: 100%; border-radius: 10px;"></div> </div> 90% |
+<table>
+  <tr>
+    <th>Softwares</th>
+    <th>Proficiency</th>
+  </tr>
+  <tr>
+    <td>ArcGIS / QGIS</td>
+    <td>
+      <div style="background-color: #ddd; border-radius: 10px; width: 100%; height: 20px;">
+        <div style="width: 85%; background-color: #40E0D0; height: 100%; border-radius: 10px;"></div>
+      </div>
+      85%
+    </td>
+  </tr>
+  <tr>
+    <td>Google Earth Engine</td>
+    <td>
+      <div style="background-color: #ddd; border-radius: 10px; width: 100%; height: 20px;">
+        <div style="width: 78%; background-color: #40E0D0; height: 100%; border-radius: 10px;"></div>
+      </div>
+      78%
+    </td>
+  </tr>
+  <tr>
+    <td>ENVI</td>
+    <td>
+      <div style="background-color: #ddd; border-radius: 10px; width: 100%; height: 20px;">
+        <div style="width: 75%; background-color: #40E0D0; height: 100%; border-radius: 10px;"></div>
+      </div>
+      75%
+    </td>
+  </tr>
+  <tr>
+    <td>Adobe PS / AI / ID</td>
+    <td>
+      <div style="background-color: #ddd; border-radius: 10px; width: 100%; height: 20px;">
+        <div style="width: 90%; background-color: #40E0D0; height: 100%; border-radius: 10px;"></div>
+      </div>
+      90%
+    </td>
+  </tr>
+</table>
 
 
 
