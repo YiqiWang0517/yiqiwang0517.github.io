@@ -71,7 +71,7 @@ Nannan Dong, **Yiqi Wang**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LAAJ 2024</div><img src='images/LAF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LAAJ 2024</div><img src='images/ModeltoApplication.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Model to Application: A Study on a Decision Support Tool for Rural Ecological Restoration Planning Based on Ecosystem Services Trade-offs](https://doi.org/10.12193/j.laing.2024.03.0004.001)
@@ -86,7 +86,7 @@ Nannan Dong, **Yiqi Wang**, Harald Zepp, Lars Gruenhagen, Malte Bührs, Christin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LAAJ 2023</div><img src='images/LAF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LAAJ 2023</div><img src='images/DigitalPark.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Research on the Construction and Application of Digital Governance Assessment Index System for Urban Park](https://doi.org/10.12193/j.laing.2023.07.0004.001)
