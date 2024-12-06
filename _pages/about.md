@@ -14,7 +14,7 @@ Hi 👋, my name is **Yiqi Wang (王怡琪)**. I am a final year M.Sc. Landscape
 
 I am currently applying for a Ph.D. for Fall 2025. My research interest includes **ecosystem services**, **landscape ecology**, and **spatial design and planning**. You can find my **CV** here: [YiqiWang's Curriculum Vitae](assets/CV_YiqiWang_11.27.pdf)
 
-<div style="height: 80%;"></div>
+<br>
 
 # 🎓 Educations
 
