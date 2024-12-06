@@ -91,7 +91,7 @@ Nannan Dong, **Yiqi Wang**, Harald Zepp, Lars Gruenhagen, Malte Bührs, Christin
 
 [Research on the Construction and Application of Digital Governance Assessment Index System for Urban Park](https://doi.org/10.12193/j.laing.2023.07.0004.001)
 
-2024 &#124; Peer-reviewed Journal (in Chinese) &#124; ***Landscape Architecture Academic Journal (园林)***
+2023 &#124; Peer-reviewed Journal (in Chinese) &#124; ***Landscape Architecture Academic Journal (园林)***
 
 Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
 
