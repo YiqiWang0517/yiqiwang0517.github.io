@@ -131,10 +131,15 @@ Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
 
 # 👩🏻‍💻 Expertise
 
-- | ***Softwares*** | ***Proficiency*** |
-- | *Arcgis/ QGIS* | - <div style="background-color: #ddd; border-radius: 25px;">
-  <div style="width: 85%; background-color: #4caf50; height: 25px; border-radius: 25px;">
-  </div>
-  </div> | 
+| ***Softwares***   | ***Proficiency***                                                                 |
+|:------------------:|:--------------------------------------------------------------------------------:|
+| *ArcGIS / QGIS*    | <div style="background-color: #ddd; border-radius: 15px; width: 100%; height: 20px;"> <div style="width: 85%; background-color: #40E0D0; height: 20px; border-radius: 15px;"></div> </div> 85% |
+| *Google Earth Engine* | <div style="background-color: #ddd; border-radius: 25px; width: 100%; height: 20px;"> <div style="width: 78%; background-color: #40E0D0; height: 20px; border-radius: 25px;"></div> </div> 78% |
+| *ENVI* | <div style="background-color: #ddd; border-radius: 25px; width: 100%; height: 20px;"> <div style="width: 75%; background-color: #40E0D0; height: 20px; border-radius: 25px;"></div> </div> 75% |
+| *Adobe PS/ AI/ ID*      | <div style="background-color: #ddd; border-radius: 25px; width: 100%; height: 20px;"> <div style="width: 90%; background-color: #40E0D0; height: 20px; border-radius: 25px;"></div> </div> 90% |
+
+</div>
+</div>
+
   
 
