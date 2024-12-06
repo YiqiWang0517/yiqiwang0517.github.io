@@ -22,13 +22,13 @@ I am currently applying for a Ph.D. for Fall 2025. My research interest includes
 - *2024.01 - 2024.05*, Visiting Study, Geography, Ruhr University Bochum, Germany 
 - *2017.09 - 2021.07*, Bachelor's Degree (GPA:90.20/100), Landscape Architecture, Tongji University, Shanghai
 
-<div style="height: 200%;"></div>
+<br>
 
 # 🏆 Honors and Awards
 - *2024.01-2024.05*,  Visiting Student Scholarship funded by China Scholarship Council
 - *2017-2020*,  The Third Prize of Tongji Scholarship of Excellent **(Awarded three times)**
 
-<br>
+<div style="height: 200%;"></div>
 
 # 📝 Publications 
 
