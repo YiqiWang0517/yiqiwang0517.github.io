@@ -127,7 +127,8 @@ Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
     - Designed the experimental protocol; conducted experiments among 30 volunteers on the beneficial impacts of different aromatic plants on mood, depression and anxiety; and analyzed the experimental results.
     - Explored principles and methods of designing an aromatic botanical garden on Tongji University campus.
 
-
+</div>
+</div>
 
 # 👩🏻‍💻 Expertise
 
