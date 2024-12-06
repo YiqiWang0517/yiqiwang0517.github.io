@@ -131,11 +131,10 @@ Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
 
 # 👩🏻‍💻 Expertise
 
-- | ***Softwares*** | ***Proficiency*** | ***Note*** |
-- | :---: | :---: | :---: |
-- | *Arcgis/ QGIS* | bbb | bbb|
-- <div style="background-color: #ddd; border-radius: 25px;">
+- | ***Softwares*** | ***Proficiency*** |
+- | *Arcgis/ QGIS* | - <div style="background-color: #ddd; border-radius: 25px;">
   <div style="width: 85%; background-color: #4caf50; height: 25px; border-radius: 25px;">
   </div>
-  </div>
+  </div> | 
+  
 
