@@ -71,6 +71,36 @@ Nannan Dong, **Yiqi Wang**
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LAAJ 2024</div><img src='images/LAF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Model to Application: A Study on a Decision Support Tool for Rural Ecological Restoration Planning Based on Ecosystem Services Trade-offs](https://doi.org/10.12193/j.laing.2024.03.0004.001)
+
+2024 &#124; Peer-reviewed Journal (in Chinese) &#124; ***Landscape Architecture Academic Journal (园林)***
+
+Nannan Dong, **Yiqi Wang**, Harald Zepp, Lars Gruenhagen, Malte Bührs, Christin Busch, Weixuan Wei
+
+- In this paper, we discussed an evaluation toolbox (IMECOGIP) that can be applied for assessing ecosystem service (ES) values in rural ecological planning, focusing on regulating, provisioning, and cultural ES types. Using Shuiku Village in Shanghai as a case study, we analyzed ES trade-offs based on LULC types and identified key optimization directions for the model’s application, scope, and procedures.
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LAAJ 2023</div><img src='images/LAF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Research on the Construction and Application of Digital Governance Assessment Index System for Urban Park](https://doi.org/10.12193/j.laing.2023.07.0004.001)
+
+2024 &#124; Peer-reviewed Journal (in Chinese) &#124; ***Landscape Architecture Academic Journal (园林)***
+
+Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
+
+- In this study we developed a 48-indicator governance assessment system for digital parks, covering perception, management, interaction, and intelligence. Using expert scoring, we proposed a dynamic evaluation method adaptable to different development stages and applied it to Shanghai case studies, offering insights for optimizing digital park planning and design.
+
+
+</div>
+</div>
+
 # 🌏 Research Experiences
 
 - *2022.03 - 2024.10* | &#124; | Research Assistant 
