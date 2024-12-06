@@ -138,8 +138,6 @@ Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
 | *ENVI* | <div style="background-color: #ddd; border-radius: 25px; width: 100%; height: 20px;"> <div style="width: 75%; background-color: #40E0D0; height: 20px; border-radius: 25px;"></div> </div> 75% |
 | *Adobe PS/ AI/ ID*      | <div style="background-color: #ddd; border-radius: 25px; width: 100%; height: 20px;"> <div style="width: 90%; background-color: #40E0D0; height: 20px; border-radius: 25px;"></div> </div> 90% |
 
-</div>
-</div>
 
   
 
