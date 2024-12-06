@@ -51,7 +51,7 @@ I am currently applying for a Ph.D. for Fall 2025. My research interest includes
 
 Weixuan Wei, **Yiqi Wang**, Qi Yan, Guanpeng Liu, Nannan Dong
 
-- In this study, we integrated objective data and subjective perceptions of ecosystem services (ESs) in urban park planning, revealing that a 35 m buffer radius optimally aligns assessments for most ESs while emphasizing stakeholder-specific synergies to guide sustainable and wellbeing-centered urban green space design.
+- In this study, we integrated objective data and subjective perceptions of ecosystem services (ES) in urban park planning, revealing that a 35 m buffer radius optimally aligns assessments for most ESs while emphasizing stakeholder-specific synergies to guide sustainable and wellbeing-centered urban green space design.
 
 </div>
 </div>
