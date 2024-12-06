@@ -14,7 +14,7 @@ Hi 👋, my name is **Yiqi Wang (王怡琪)**. I am a final year M.Sc. Landscape
 
 I am currently applying for a Ph.D. for Fall 2025. My research interest includes **ecosystem services**, **landscape ecology**, and **spatial design and planning**. You can find my **CV** here: [YiqiWang's Curriculum Vitae](assets/CV_YiqiWang_11.27.pdf)
 
-<div style="height: 12px;"></div> <!-- 自定义行高空行 -->
+<div style="height: 10px;"></div> <!-- 自定义行高空行 -->
 
 # 🎓 Educations
 
@@ -22,13 +22,13 @@ I am currently applying for a Ph.D. for Fall 2025. My research interest includes
 - *2024.01 - 2024.05*, Visiting Study, Geography, Ruhr University Bochum, Germany 
 - *2017.09 - 2021.07*, Bachelor's Degree (GPA:90.20/100), Landscape Architecture, Tongji University, Shanghai
 
-<div style="height: 12px;"></div> <!-- 自定义行高空行 -->
+<div style="height: 10px;"></div> <!-- 自定义行高空行 -->
 
 # 🏆 Honors and Awards
 - *2024.01-2024.05*,  Visiting Student Scholarship funded by China Scholarship Council
 - *2017-2020*,  The Third Prize of Tongji Scholarship of Excellent **(Awarded three times)**
 
-<div style="height: 12px;"></div> <!-- 自定义行高空行 -->
+<div style="height: 10px;"></div> <!-- 自定义行高空行 -->
 
 # 📝 Publications 
 
