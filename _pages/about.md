@@ -145,7 +145,7 @@ Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
   <tr>
     <td>ArcGIS / QGIS</td>
     <td>
-      <div style="background-color: #6A93D4; border-radius: 10px; width: 100%; height: 20px;">
+      <div style="background-color: #F0F8FF; border-radius: 10px; width: 100%; height: 20px;">
         <div style="width: 85%; background-color: #6495ED; height: 100%; border-radius: 10px;"></div>
       </div>
 
@@ -180,8 +180,41 @@ Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
   </tr>
 </table>
 
+<div style="height: 16px;"></div> <!-- 自定义行高空行 -->
 
+<table>
+  <tr>
+    <th style="width: 48%;">Language</th>
+    <th style="width: 52%;">Proficiency</th>
+  </tr>
+  <tr>
+    <td>Mandarin</td>
+    <td>
+      <div style="background-color: #F0F8FF; border-radius: 10px; width: 100%; height: 20px;">
+        <div style="width: 98%; background-color: #6495ED; height: 100%; border-radius: 10px;"></div>
+      </div>
 
+    </td>
+  </tr>
+  <tr>
+    <td>English</td>
+    <td>
+      <div style="background-color: #F0F8FF; border-radius: 10px; width: 100%; height: 20px;">
+        <div style="width: 75%; background-color: #6495ED; height: 100%; border-radius: 10px;"></div>
+      </div>
+
+        </td>
+  </tr>
+  <tr>
+    <td>German</td>
+    <td>
+      <div style="background-color: #F0F8FF; border-radius: 10px; width: 100%; height: 20px;">
+        <div style="width: 20%; background-color: #6495ED; height: 100%; border-radius: 10px;"></div>
+      </div>
+     
+    </td>
+  </tr>
+</table>
 
   
 
