@@ -18,9 +18,9 @@ I am currently applying for a Ph.D. for Fall 2025. My research interest includes
 
 # 🎓 Educations
 
-- *2021.09 - 2025.06 (expected)*, Master's Degree (GPA:87.65/100), Landscape Architecture, Tongji University, Shanghai
-- *2024.01 - 2024.05*, Visiting Study, Geography, Ruhr University Bochum, Germany 
-- *2017.09 - 2021.07*, Bachelor's Degree (GPA:90.20/100), Landscape Architecture, Tongji University, Shanghai
+- *2021.09 - 2025.06 (expected)*, <span style="color: rgb(65,105,225);">**Master's Degree**</span> (GPA:87.65/100), Landscape Architecture, Tongji University, Shanghai
+- *2024.01 - 2024.05*, <span style="color: rgb(65,105,225);">**Visiting Study in Geography**</span>, Ruhr University Bochum, Germany 
+- *2017.09 - 2021.07*, <span style="color: rgb(65,105,225);">**Bachelor's Degree**</span> (GPA:90.20/100), Landscape Architecture, Tongji University, Shanghai
 
 <div style="height: 5px;"></div> <!-- 自定义行高空行 -->
 
