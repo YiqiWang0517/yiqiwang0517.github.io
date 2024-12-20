@@ -202,7 +202,7 @@ Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
     <td>English</td>
     <td>
       <div style="background-color: #F0F8FF; border-radius: 10px; width: 100%; height: 20px;">
-        <div style="width: 75%; background-color: #6495ED; height: 100%; border-radius: 10px;"></div>
+        <div style="width: 80%; background-color: #6495ED; height: 100%; border-radius: 10px;"></div>
       </div>
 
         </td>
