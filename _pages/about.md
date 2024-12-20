@@ -113,8 +113,8 @@ Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
 
 # 🌏 Research Experiences
 
-- *2022.03 - 2024.10* | &#124; | <span style="color: rgb(65,105,225);">**Research Assistant**</span> 
-  - **Project Name**: Implementation of the Ecosystem Services Concept in Green Infrastructure Planning to Strengthen the Resilience of the Metropole Ruhr and Chinese Megacities (**[IMECOGIP](https://sustainable-urban-regions.org/de/project/imecogip/), the German BMBF funded**)
+- *2022.03 - 2024.10* | &#124; | **Research Assistant** 
+  - **Project Name**: <span style="color: rgb(65,105,225);">**Implementation of the Ecosystem Services Concept in Green Infrastructure Planning to Strengthen the Resilience of the Metropole Ruhr and Chinese Megacities**</span> (**[IMECOGIP](https://sustainable-urban-regions.org/de/project/imecogip/), the German BMBF funded**)
   - **My Work**:
     - Collected land use/ land cover data from urban and rural areas in Shanghai through on-site investigations and remote sensing imagery;
     - Contributed to the development of the methodology for the toolbox;
@@ -123,15 +123,15 @@ Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
    
 
 
-- *2023.02 - Present* | &#124; |  <span style="color: rgb(65,105,225);">**Research Assistant**</span>
-  - **Project Name**: Comprehensive Study on the Summer Temperature Regulation Performance and Influencing Factors of Rooftop Greening in the Photovoltaic and Greening Combination Mode (**National Natural Science Foundation Project**)
+- *2023.02 - Present* | &#124; | **Research Assistant**
+  - **Project Name**: <span style="color: rgb(65,105,225);">**Comprehensive Study on the Summer Temperature Regulation Performance and Influencing Factors of Rooftop Greening in the Photovoltaic and Greening Combination Mode**</span> (**National Natural Science Foundation Project**)
   - **My Work**:
     - Assisted in reviewing literature on rooftop photovoltaic systems and designing the experimental procedures.
     - Conducted on-site experiments in Shanghai; produced schematic diagrams of the experimental test unit.
    
 
-- *2019.04 - 2021.04* | &#124; | <span style="color: rgb(65,105,225);">**Program Leader**</span>
-  - **Project Name**: Study on Mood-Modulating Effects of Aromatic Plants and Exploration of the Design of the Aromatic Botanical Garden on University Campus (**National Undergraduate Innovation Training Program**)
+- *2019.04 - 2021.04* | &#124; | **Program Leader**
+  - **Project Name**: <span style="color: rgb(65,105,225);">**Study on Mood-Modulating Effects of Aromatic Plants and Exploration of the Design of the Aromatic Botanical Garden on University Campus**</span> (**National Undergraduate Innovation Training Program**)
   - **My Work**:
     - Designed the experimental protocol; conducted experiments among 30 volunteers on the beneficial impacts of different aromatic plants on mood, depression and anxiety; and analyzed the experimental results.
     - Explored principles and methods of designing an aromatic botanical garden on Tongji University campus.
