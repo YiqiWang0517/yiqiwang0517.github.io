@@ -84,6 +84,7 @@ Nannan Dong, **Yiqi Wang**
 
 2024 &#124; Peer-reviewed Journal (in Chinese) &#124; <span style="color: rgb(65,105,225);">***Landscape Architecture Academic Journal (园林)***
 </span>
+
 Nannan Dong, **Yiqi Wang**, Harald Zepp, Lars Gruenhagen, Malte Bührs, Christin Busch, Weixuan Wei
 
 - In this paper, we discussed an evaluation toolbox (IMECOGIP) that can be applied for assessing ecosystem service (ES) values in rural ecological planning, focusing on regulating, provisioning, and cultural ES types. Using Shuiku Village in Shanghai as a case study, we analyzed ES trade-offs based on LULC types and identified key optimization directions for the model’s application, scope, and procedures.
