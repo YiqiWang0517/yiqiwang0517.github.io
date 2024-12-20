@@ -146,7 +146,7 @@ Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
     <td>ArcGIS / QGIS</td>
     <td>
       <div style="background-color: #E0FFFF; border-radius: 10px; width: 100%; height: 20px;">
-        <div style="width: 85%; background-color: #00CED1; height: 100%; border-radius: 10px;"></div>
+        <div style="width: 85%; background-color: #6495ED; height: 100%; border-radius: 10px;"></div>
       </div>
 
     </td>
@@ -155,7 +155,7 @@ Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
     <td>Google Earth Engine</td>
     <td>
       <div style="background-color: #E0FFFF; border-radius: 10px; width: 100%; height: 20px;">
-        <div style="width: 78%; background-color: #00CED1; height: 100%; border-radius: 10px;"></div>
+        <div style="width: 78%; background-color: #6495ED; height: 100%; border-radius: 10px;"></div>
       </div>
       
     </td>
@@ -164,7 +164,7 @@ Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
     <td>ENVI</td>
     <td>
       <div style="background-color: #E0FFFF; border-radius: 10px; width: 100%; height: 20px;">
-        <div style="width: 75%; background-color: #00CED1; height: 100%; border-radius: 10px;"></div>
+        <div style="width: 75%; background-color: #6495ED; height: 100%; border-radius: 10px;"></div>
       </div>
      
     </td>
@@ -173,7 +173,7 @@ Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
     <td>Adobe PhotoShop / Illustrator / InDesign</td>
     <td>
       <div style="background-color: #E0FFFF; border-radius: 10px; width: 100%; height: 20px;">
-        <div style="width: 90%; background-color: #00CED1; height: 100%; border-radius: 10px;"></div>
+        <div style="width: 90%; background-color: #6495ED; height: 100%; border-radius: 10px;"></div>
       </div>
      
     </td>
