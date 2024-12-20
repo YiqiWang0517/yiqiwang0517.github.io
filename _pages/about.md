@@ -35,7 +35,7 @@ I am currently applying for a Ph.D. for Fall 2025. My research interest includes
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LAND 2024</div><img src='images/MethodologicalFramework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Multi Source Data-Based Method for Assessing Carbon Sequestration of Urban Parks from a Spatial–Temporal Perspective: A Case Study of Shanghai Century Park](https://doi.org/10.3390/land13111914)
+[**A Multi Source Data-Based Method for Assessing Carbon Sequestration of Urban Parks from a Spatial–Temporal Perspective: A Case Study of Shanghai Century Park**](https://doi.org/10.3390/land13111914)
 
 2024 &#124; Peer-reviewed Journal &#124; ***Land*** (IF=3.2)
 
@@ -51,7 +51,7 @@ I am currently applying for a Ph.D. for Fall 2025. My research interest includes
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LAND 2024</div><img src='images/land-13-01848-g003.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Assessing Buffer Gradient Synergies: Comparing Objective and Subjective Evaluations of Urban Park Ecosystem Services in Century Park, Shanghai](https://doi.org/10.3390/land13111848)
+[**Assessing Buffer Gradient Synergies: Comparing Objective and Subjective Evaluations of Urban Park Ecosystem Services in Century Park, Shanghai**](https://doi.org/10.3390/land13111848)
 
 2024 &#124; Peer-reviewed Journal &#124; ***Land*** (IF=3.2)
 
@@ -65,7 +65,7 @@ Weixuan Wei, **Yiqi Wang**, Qi Yan, Guanpeng Liu, Nannan Dong
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LAF 2022</div><img src='images/LAF2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Xuhui Runway Park Landscape Performance Evaluation](https://www.landscapeperformance.org/case-study-briefs/xuhui-runway-park)
+[**Xuhui Runway Park Landscape Performance Evaluation**](https://www.landscapeperformance.org/case-study-briefs/xuhui-runway-park)
 
 2022 &#124; Peer-reviewed Report &#124; ***Landscape Performance Series, Landscape Architecture Foundation***
 
@@ -80,7 +80,7 @@ Nannan Dong, **Yiqi Wang**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LAAJ 2024</div><img src='images/ModeltoApplication.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Model to Application: A Study on a Decision Support Tool for Rural Ecological Restoration Planning Based on Ecosystem Services Trade-offs](https://doi.org/10.12193/j.laing.2024.03.0004.001)
+[**Model to Application: A Study on a Decision Support Tool for Rural Ecological Restoration Planning Based on Ecosystem Services Trade-offs**](https://doi.org/10.12193/j.laing.2024.03.0004.001)
 
 2024 &#124; Peer-reviewed Journal (in Chinese) &#124; ***Landscape Architecture Academic Journal (园林)***
 
@@ -95,7 +95,7 @@ Nannan Dong, **Yiqi Wang**, Harald Zepp, Lars Gruenhagen, Malte Bührs, Christin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LAAJ 2023</div><img src='images/DigitalPark.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Research on the Construction and Application of Digital Governance Assessment Index System for Urban Park](https://doi.org/10.12193/j.laing.2023.07.0004.001)
+[**Research on the Construction and Application of Digital Governance Assessment Index System for Urban Park**](https://doi.org/10.12193/j.laing.2023.07.0004.001)
 
 2023 &#124; Peer-reviewed Journal (in Chinese) &#124; ***Landscape Architecture Academic Journal (园林)***
 
