@@ -42,7 +42,7 @@ I am currently applying for a Ph.D. for Fall 2025. My research interest includes
 **Yiqi Wang**, Jiao Yu, Weixuan Wei, Nannan Dong
 
 - In this paper, I established a spatial-temporal framework to assess the carbon sequestration capacity of large urban parks.
-- Using remote sensing imagery and the random forest algorithm on the Google Earth Engine platform (https://earthengine.google.com/), I performed biotope classifications and analyzed their temporal and spatial transitions.
+- Using remote sensing imagery and the random forest algorithm on the [Google Earth Engine platform](https://earthengine.google.com/), I performed biotope classifications and analyzed their temporal and spatial transitions.
 - Focusing on Shanghai Century Park, I estimated its carbon sequestration capacity from 2018 to 2023, exploring variation characteristics and driving factors, and proposing low-carbon design strategies for urban park management.
 
 </div>
