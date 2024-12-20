@@ -128,8 +128,7 @@ Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
     - Conducted on-site experiments in Shanghai; produced schematic diagrams of the experimental test unit.
    
 
-   
-- *2019.04 - 2021.04* | &#124; | Program Leader
+- *2019.04 - 2021.04* | &#124; | <span style="color: rgb(255, 0, 0);">**Program Leader**</span>
   - **Project Name**: Study on Mood-Modulating Effects of Aromatic Plants and Exploration of the Design of the Aromatic Botanical Garden on University Campus (**National Undergraduate Innovation Training Program**)
   - **My Work**:
     - Designed the experimental protocol; conducted experiments among 30 volunteers on the beneficial impacts of different aromatic plants on mood, depression and anxiety; and analyzed the experimental results.
