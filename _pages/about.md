@@ -12,7 +12,7 @@ redirect_from:
 
 Hi 👋, my name is **Yiqi Wang (王怡琪)**. I am a final year M.Sc. Landscape Architecture student at College of Architecture and Urban Planning, Tongji University, Shanghai. My advisor is Associate Prof. Dr. Nannan Dong.
 
-I am currently applying for a Ph.D. for Fall 2025. My research interest includes <span style="color: rgb(65,105,225);">**ecosystem services**</span>, <span style="color: rgb(65,105,225);">**urban ecology**</span>, <span style="color: rgb(65,105,225);">**landscape sustainability**</span>, and <span style="color: rgb(65,105,225);">**urban design and planning**</span>. You can find my **CV** here: [YiqiWang's Curriculum Vitae](assets/CV_YiqiWang_11.27.pdf)
+I am currently applying for a Ph.D. for Fall 2025. My research interest includes <span style="color: rgb(65,105,225);">**ecosystem services**</span>, <span style="color: rgb(65,105,225);">**landscape ecology**</span>, and <span style="color: rgb(65,105,225);">**urban design and planning**</span>. You can find my **CV** here: [YiqiWang's Curriculum Vitae](assets/CV_YiqiWang_11.27.pdf)
 
 <div style="height: 5px;"></div> <!-- 自定义行高空行 -->
 
@@ -37,7 +37,7 @@ I am currently applying for a Ph.D. for Fall 2025. My research interest includes
 
 [**A Multi Source Data-Based Method for Assessing Carbon Sequestration of Urban Parks from a Spatial–Temporal Perspective: A Case Study of Shanghai Century Park**](https://doi.org/10.3390/land13111914)
 
-2024 &#124; Peer-reviewed Journal &#124; ***Land*** (IF=3.2)
+2024 &#124; Peer-reviewed Journal &#124; <span style="color: rgb(65,105,225);">***Land***</span> (IF=3.2)
 
 **Yiqi Wang**, Jiao Yu, Weixuan Wei, Nannan Dong
 
@@ -53,7 +53,7 @@ I am currently applying for a Ph.D. for Fall 2025. My research interest includes
 
 [**Assessing Buffer Gradient Synergies: Comparing Objective and Subjective Evaluations of Urban Park Ecosystem Services in Century Park, Shanghai**](https://doi.org/10.3390/land13111848)
 
-2024 &#124; Peer-reviewed Journal &#124; ***Land*** (IF=3.2)
+2024 &#124; Peer-reviewed Journal &#124; <span style="color: rgb(65,105,225);">***Land***</span> (IF=3.2)
 
 Weixuan Wei, **Yiqi Wang**, Qi Yan, Guanpeng Liu, Nannan Dong
 
@@ -67,7 +67,7 @@ Weixuan Wei, **Yiqi Wang**, Qi Yan, Guanpeng Liu, Nannan Dong
 
 [**Xuhui Runway Park Landscape Performance Evaluation**](https://www.landscapeperformance.org/case-study-briefs/xuhui-runway-park)
 
-2022 &#124; Peer-reviewed Report &#124; ***Landscape Performance Series, Landscape Architecture Foundation***
+2022 &#124; Peer-reviewed Report &#124; <span style="color: rgb(65,105,225);">***Landscape Performance Series, Landscape Architecture Foundation***</span>
 
 Nannan Dong, **Yiqi Wang**
 
@@ -82,8 +82,8 @@ Nannan Dong, **Yiqi Wang**
 
 [**Model to Application: A Study on a Decision Support Tool for Rural Ecological Restoration Planning Based on Ecosystem Services Trade-offs**](https://doi.org/10.12193/j.laing.2024.03.0004.001)
 
-2024 &#124; Peer-reviewed Journal (in Chinese) &#124; ***Landscape Architecture Academic Journal (园林)***
-
+2024 &#124; Peer-reviewed Journal (in Chinese) &#124; <span style="color: rgb(65,105,225);">***Landscape Architecture Academic Journal (园林)***
+</span>
 Nannan Dong, **Yiqi Wang**, Harald Zepp, Lars Gruenhagen, Malte Bührs, Christin Busch, Weixuan Wei
 
 - In this paper, we discussed an evaluation toolbox (IMECOGIP) that can be applied for assessing ecosystem service (ES) values in rural ecological planning, focusing on regulating, provisioning, and cultural ES types. Using Shuiku Village in Shanghai as a case study, we analyzed ES trade-offs based on LULC types and identified key optimization directions for the model’s application, scope, and procedures.
@@ -97,7 +97,8 @@ Nannan Dong, **Yiqi Wang**, Harald Zepp, Lars Gruenhagen, Malte Bührs, Christin
 
 [**Research on the Construction and Application of Digital Governance Assessment Index System for Urban Park**](https://doi.org/10.12193/j.laing.2023.07.0004.001)
 
-2023 &#124; Peer-reviewed Journal (in Chinese) &#124; ***Landscape Architecture Academic Journal (园林)***
+2023 &#124; Peer-reviewed Journal (in Chinese) &#124; <span style="color: rgb(65,105,225);">***Landscape Architecture Academic Journal (园林)***
+</span>
 
 Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
 
