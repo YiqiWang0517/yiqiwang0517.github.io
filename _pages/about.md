@@ -18,9 +18,9 @@ I am currently applying for a Ph.D. for Fall 2025. My research interest includes
 
 # 🎓 Educations
 
-- *2021.09 - 2025.06 (expected)*, <span style="color: rgb(65,105,225);">**Master's Degree**</span> (GPA:87.65/100), *Landscape Architecture*, Tongji University, Shanghai
-- *2024.01 - 2024.05*, <span style="color: rgb(65,105,225);">**Visiting Study in Geography**</span>, Ruhr University Bochum, Germany 
-- *2017.09 - 2021.07*, <span style="color: rgb(65,105,225);">**Bachelor's Degree**</span> (GPA:90.20/100), *Landscape Architecture*, Tongji University, Shanghai
+- *2021.09 - 2025.06 (expected)*, <span style="color: rgb(65,105,225);">**Master's Degree**</span> (GPA:87.65/100), ***Landscape Architecture***, Tongji University, Shanghai
+- *2024.01 - 2024.05*, <span style="color: rgb(65,105,225);">**Visiting Study**</span>, ***Geography***, Ruhr University Bochum, Germany 
+- *2017.09 - 2021.07*, <span style="color: rgb(65,105,225);">**Bachelor's Degree**</span> (GPA:90.20/100), ***Landscape Architecture***, Tongji University, Shanghai
 
 <div style="height: 5px;"></div> <!-- 自定义行高空行 -->
 
@@ -39,7 +39,7 @@ I am currently applying for a Ph.D. for Fall 2025. My research interest includes
 
 2024 &#124; Peer-reviewed Journal &#124; <span style="color: rgb(65,105,225);">***Land***</span> (IF=3.2)
 
-**Yiqi Wang**, Jiao Yu, Weixuan Wei, Nannan Dong
+<span style="color: rgb(65,105,225);">**Yiqi Wang**</span>, Jiao Yu, Weixuan Wei, Nannan Dong
 
 - In this paper, I established a spatial-temporal framework to assess the carbon sequestration capacity of large urban parks.
 - Using remote sensing imagery and the random forest algorithm on the [Google Earth Engine platform](https://earthengine.google.com/), I performed biotope classifications and analyzed their temporal and spatial transitions.
@@ -55,7 +55,7 @@ I am currently applying for a Ph.D. for Fall 2025. My research interest includes
 
 2024 &#124; Peer-reviewed Journal &#124; <span style="color: rgb(65,105,225);">***Land***</span> (IF=3.2)
 
-Weixuan Wei, **Yiqi Wang**, Qi Yan, Guanpeng Liu, Nannan Dong
+Weixuan Wei, <span style="color: rgb(65,105,225);">**Yiqi Wang**</span>, Qi Yan, Guanpeng Liu, Nannan Dong
 
 - In this study, we integrated objective data and subjective perceptions of ecosystem services (ES) in urban park planning, revealing that a 35 m buffer radius optimally aligns assessments for most ES while emphasizing stakeholder-specific synergies to guide sustainable and wellbeing-centered urban green space design.
 
@@ -69,7 +69,7 @@ Weixuan Wei, **Yiqi Wang**, Qi Yan, Guanpeng Liu, Nannan Dong
 
 2022 &#124; Peer-reviewed Report &#124; <span style="color: rgb(65,105,225);">***Landscape Performance Series, Landscape Architecture Foundation***</span>
 
-Nannan Dong, **Yiqi Wang**
+Nannan Dong, <span style="color: rgb(65,105,225);">**Yiqi Wang**</span>
 
 - Through a combination of on-site and online investigations, I quantitatively evaluated six environmental, six social, and one economic benefit provided by Xuhui Runway Park, including carbon sequestration, stormwater management, biodiversity enhancement, and urban noise mitigation. 
 
@@ -85,7 +85,7 @@ Nannan Dong, **Yiqi Wang**
 2024 &#124; Peer-reviewed Journal (in Chinese) &#124; <span style="color: rgb(65,105,225);">***Landscape Architecture Academic Journal (园林)***
 </span>
 
-Nannan Dong, **Yiqi Wang**, Harald Zepp, Lars Gruenhagen, Malte Bührs, Christin Busch, Weixuan Wei
+Nannan Dong, <span style="color: rgb(65,105,225);">**Yiqi Wang**</span>, Harald Zepp, Lars Gruenhagen, Malte Bührs, Christin Busch, Weixuan Wei
 
 - In this paper, we discussed an evaluation toolbox (IMECOGIP) that can be applied for assessing ecosystem service (ES) values in rural ecological planning, focusing on regulating, provisioning, and cultural ES types. Using Shuiku Village in Shanghai as a case study, we analyzed ES trade-offs based on LULC types and identified key optimization directions for the model’s application, scope, and procedures.
 
@@ -101,7 +101,7 @@ Nannan Dong, **Yiqi Wang**, Harald Zepp, Lars Gruenhagen, Malte Bührs, Christin
 2023 &#124; Peer-reviewed Journal (in Chinese) &#124; <span style="color: rgb(65,105,225);">***Landscape Architecture Academic Journal (园林)***
 </span>
 
-Nannan Dong, Zhiwei Liu, **Yiqi Wang**, Bo Yang
+Nannan Dong, Zhiwei Liu, <span style="color: rgb(65,105,225);">**Yiqi Wang**</span>, Bo Yang
 
 - In this study we developed a 48-indicator governance assessment system for digital parks, covering perception, management, interaction, and intelligence. Using expert scoring, we proposed a dynamic evaluation method adaptable to different development stages and applied it to Shanghai case studies, offering insights for optimizing digital park planning and design.
 
