@@ -10,7 +10,7 @@ redirect_from:
 
 <br>
 
-Hi 👋, my name is **Yiqi Wang (王怡琪)**. I am a final year M.Sc. **Landscape Architecture** student at **College of Architecture and Urban Planning, Tongji University**, Shanghai. My advisor is [Associate Prof. Dr. Nannan Dong](https://landscape-caup.tongji.edu.cn/38/4b/c10588a342091/page.htm).
+Hi 👋, my name is <span style="color: rgb(65,105,225);">**Yiqi Wang (王怡琪)** </span>. I am a final year M.Sc. <span style="color: rgb(65,105,225);">**Landscape Architecture**</span> student at <span style="color: rgb(65,105,225);">**College of Architecture and Urban Planning, Tongji University**</span>, Shanghai. My advisor is [Associate Prof. Dr. Nannan Dong](https://landscape-caup.tongji.edu.cn/38/4b/c10588a342091/page.htm).
 
 I am currently applying for a Ph.D. for Fall 2025. My research interest includes <span style="color: rgb(65,105,225);">**ecosystem services**</span>, <span style="color: rgb(65,105,225);">**landscape ecology**</span>, and <span style="color: rgb(65,105,225);">**urban design and planning**</span>. You can find my <span style="color: rgb(65,105,225);">**CV**</span> here: [YiqiWang's Curriculum Vitae](assets/CV_YiqiWang_11.27.pdf).
 
