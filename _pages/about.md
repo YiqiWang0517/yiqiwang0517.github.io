@@ -114,7 +114,7 @@ Nannan Dong, Zhiwei Liu, <span style="color: rgb(65,105,225);">**Yiqi Wang**</sp
 # 🌏 Research Experiences
 
 - *2022.03 - 2024.10* | &#124; | **Research Assistant** 
-  - **Project Name**: <span style="color: rgb(65,105,225);">**Implementation of the Ecosystem Services Concept in Green Infrastructure Planning to Strengthen the Resilience of the Metropole Ruhr and Chinese Megacities, [IMECOGIP](https://sustainable-urban-regions.org/de/project/imecogip/)</span>** (one of the subproject of ***Sustainable Development of Urban Regions (SURE)***, funded by The Germany Federal Ministry of Education and Research)
+  - **Project Name**: <span style="color: rgb(65,105,225);">**Implementation of the Ecosystem Services Concept in Green Infrastructure Planning to Strengthen the Resilience of the Metropole Ruhr and Chinese Megacities, [IMECOGIP](https://sustainable-urban-regions.org/de/project/imecogip/)**</span> (one of the subproject of ***Sustainable Development of Urban Regions (SURE)***, funded by The Germany Federal Ministry of Education and Research)
   - **My Work**:
     - Collected land use/ land cover data from urban and rural areas in Shanghai through on-site investigations and remote sensing imagery;
     - Contributed to the development of the methodology for the toolbox;
