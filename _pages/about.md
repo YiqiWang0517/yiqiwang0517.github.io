@@ -12,7 +12,7 @@ redirect_from:
 
 Hi 👋, my name is **Yiqi Wang (王怡琪)**. I am now a 1st-year PhD student at the **[Institute of Building Climatology, TU Dresden](https://tu-dresden.de/bu/architektur-landschaft/ibk/das-institut)**. My advisor is **[Prof. Dr.-Ing. Xiaoping Xie](https://tu-dresden.de/bu/architektur-landschaft/ibk/das-institut/team/dr-ing-xiaoping-xie?b_start_16806%3Aint=0)**.
 
-My research interests include <span style="color: rgb(65,105,225);">**renewable energy systems**</span>, <span style="color: rgb(65,105,225);">**green infrastructure**</span>, and <span style="color: rgb(65,105,225);">**urban design and planning**</span>. You can find my **CV** here: [YiqiWang's Curriculum Vitae](assets/CV_YiqiWang_0102.pdf).
+My research interests include <span style="color: rgb(65,105,225);">**renewable energy systems**</span>, <span style="color: rgb(65,105,225);">**green infrastructure**</span>, and <span style="color: rgb(65,105,225);">**urban design and planning**</span>. You can find my **CV** here: **[YiqiWang's Curriculum Vitae](assets/CV_YiqiWang_0102.pdf)**.
 
 <div style="height: 5px;"></div> <!-- 自定义行高空行 -->
 
