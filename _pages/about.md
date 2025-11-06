@@ -10,15 +10,15 @@ redirect_from:
 
 <br>
 
-Hi 👋, my name is **Yiqi Wang (王怡琪)**. I am a final year M.Sc. <span style="color: rgb(65,105,225);">***Landscape Architecture***</span> student at **College of Architecture and Urban Planning, Tongji University**, Shanghai. My advisor is [Associate Prof. Dr. Nannan Dong](https://landscape-caup.tongji.edu.cn/38/4b/c10588a342091/page.htm).
+Hi 👋, my name is **Yiqi Wang (王怡琪)**. I am now a 1st-year PhD student at the **Institute of Building Climatology, TU Dresden**. My advisor is [Prof. Dr.-Ing. Xiaoping Xie](https://tu-dresden.de/bu/architektur-landschaft/ibk/das-institut/team/dr-ing-xiaoping-xie?b_start_16806%3Aint=0).
 
-I am currently applying for a Ph.D. for Fall 2025. My research interests include <span style="color: rgb(65,105,225);">**ecosystem services**</span>, <span style="color: rgb(65,105,225);">**landscape ecology**</span>, and <span style="color: rgb(65,105,225);">**urban design and planning**</span>. You can find my **CV** here: [YiqiWang's Curriculum Vitae](assets/CV_YiqiWang_0102.pdf).
+My research interests include <span style="color: rgb(65,105,225);">**renewable energy systems**</span>, <span style="color: rgb(65,105,225);">**green infrastructure**</span>, and <span style="color: rgb(65,105,225);">**urban design and planning**</span>. You can find my **CV** here: [YiqiWang's Curriculum Vitae](assets/CV_YiqiWang_0102.pdf).
 
 <div style="height: 5px;"></div> <!-- 自定义行高空行 -->
 
 # 🎓 Educations
-
-- *2021.09 - 2025.06 (expected)*, **Master's Degree** (GPA:87.65/100), <span style="color: rgb(65,105,225);">***Landscape Architecture***</span>, Tongji University, Shanghai
+- *2025.10 - Present*, **PhD in Architecture (in progress)**, Technische Universität Dresden, Dresden
+- *2021.09 - 2025.06*, **Master's Degree** (GPA:87.65/100), <span style="color: rgb(65,105,225);">***Landscape Architecture***</span>, Tongji University, Shanghai
 - *2024.01 - 2024.05*, **Visiting Study**, <span style="color: rgb(65,105,225);">***Geography***</span>, Ruhr University Bochum, Germany 
 - *2017.09 - 2021.07*, **Bachelor's Degree** (GPA:90.20/100), <span style="color: rgb(65,105,225);">***Landscape Architecture***</span>, Tongji University, Shanghai
 
